@@ -2,7 +2,7 @@
   "name": "SkelEktron",
   "productName": "SkelEktron",
   "description": "Electron Template Desktop Application",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/BZCoding/SkelEktron",
   "author": {
     "name": "Vito Tardia / BZ Coding",
@@ -20,7 +20,7 @@
   "config": {
     "url": "index.html",
     "update": {
-      "url": false
+      "url": "https://serene-wave-73714.herokuapp.com/"
     }
   }
 }

@@ -88,6 +88,7 @@
       ]
     },
     "win": {
+      "iconUrl": "https://drslash.com/wp-content/uploads/2014/07/Batman5.png",
       "msi": false
     }
   },
