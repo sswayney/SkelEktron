@@ -12,6 +12,7 @@
   "main": "main.js",
   "electronVersion": "1.0.0",
   "dependencies": {
+    "electron-is-dev": "0.1.1",
     "electron-debug": "^1",
     "devtron": "^1.1",
     "lodash": "^4"
